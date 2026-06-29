@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Tajawal", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Cairo", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-gold: #c5a059;
+  --color-gold-hover: #b48e47;
+  --color-dark-blue: #0a1120;
+  --color-mid-blue: #101d35;
+}

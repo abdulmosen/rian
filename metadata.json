@@ -1,0 +1,6 @@
+{
+  "name": "شركة ريان قربان وشركاؤه للمحاماة",
+  "description": "الموقع الرسمي لشركة ريان قربان وشركاؤه للمحاماة والاستشارات القانونية بالمدينة المنورة. خدمات واستشارات قانونية احترافية وموثوقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
